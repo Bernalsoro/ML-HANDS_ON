@@ -1,8 +1,4 @@
 # ML-HANDS_ON
-Claro, aquí tienes una descripción breve que puedes agregar al archivo `README.md` de tu repositorio:
-
----
-
 # Predicción de Precios de Viviendas
 
 Este proyecto tiene como objetivo predecir el precio de viviendas en California utilizando el dataset "California Housing". A través de un flujo completo de Machine Learning, el modelo entrenado estima el valor de una vivienda basado en características como el número de habitaciones, tamaño, población, ubicación y otros factores.
